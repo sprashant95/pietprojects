@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="History"
+        android:id="@+id/history"/>
+    <item
+        android:title="Downloads"
+        android:id="@+id/downloads">
+
+        <menu>
+            <item
+                android:title="Recent Downloads"/>
+
+            <item
+                android:title="Previous Downloads"/>
+        </menu>
+
+    </item>
+    <item
+        android:title="Bookmarks"
+        android:id="@+id/bookmark"/>
+    <item
+        android:title="Recent Tabs"
+        android:id="@+id/recent"/>
+
+</menu>

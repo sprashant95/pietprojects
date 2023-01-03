@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599163794770",
+    "project_id": "pietsinglefbdata",
+    "storage_bucket": "pietsinglefbdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599163794770:android:ff8190a13e8d6a1828b68b",
+        "android_client_info": {
+          "package_name": "com.example.pietsinglefbdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599163794770-nfpr9nlq4r4826p2nro9l85r8a2lnstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZwqdGpHiZIoSgflPsEWeK0X2RI5hJkbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599163794770-nfpr9nlq4r4826p2nro9l85r8a2lnstl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

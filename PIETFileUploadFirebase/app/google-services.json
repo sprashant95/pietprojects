@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261551249472",
+    "project_id": "pietfileupload",
+    "storage_bucket": "pietfileupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261551249472:android:d019f50b2f344262c767a5",
+        "android_client_info": {
+          "package_name": "com.example.pietfileuploadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261551249472-o0rgom4h1h7vhufb88jerhg4jssl1lm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnH75Ewl1v8RVnfzb3TYU3ORSKk-PVaaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261551249472-o0rgom4h1h7vhufb88jerhg4jssl1lm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

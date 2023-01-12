@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441465865544",
+    "project_id": "pietrecyclerviewfb",
+    "storage_bucket": "pietrecyclerviewfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441465865544:android:30c92930b5a8aa94b15f7d",
+        "android_client_info": {
+          "package_name": "com.example.pietrecyclerviewfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441465865544-ei4ud3td5a1drr4q6bnpdehcq6gbea6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ3HxWSg_a0prBFdi8KfERLMF2gusTvyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441465865544-ei4ud3td5a1drr4q6bnpdehcq6gbea6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

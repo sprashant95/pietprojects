@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453571560058",
+    "project_id": "pietsignupfirebase",
+    "storage_bucket": "pietsignupfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453571560058:android:ea5784096ddabf061571c3",
+        "android_client_info": {
+          "package_name": "com.example.pietusersignupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453571560058-756dmvj4st58f63su4hk5kng5b6p4b8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYduA4jc821E2uvC6hYK3VMDjukZzRbJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453571560058-756dmvj4st58f63su4hk5kng5b6p4b8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
